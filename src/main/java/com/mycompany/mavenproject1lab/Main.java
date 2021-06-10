@@ -23,7 +23,7 @@ public class Main {
         dao.adicionarPessoa(p2);
         dao.adicionarPessoa(p3);
        
-        dao.ordenarPessoassss();
+        dao.ordenarPessoas();
        
         Iterator<Pessoa> iterador = dao.iterator();
        
